@@ -10,7 +10,7 @@ connectDB();
 const app = express();  
 
 app.use(cors({
-   origin: "https://gymmate-frontend.onrender.com/",
+   //origin: "https://gymmate-frontend.onrender.com/",
 }));
 app.use(express.json());
 
