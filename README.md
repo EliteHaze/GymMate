@@ -5,13 +5,6 @@
 GymMate is a modern, responsive fitness app that lets you build and manage your personal exercise library. Search and filter exercises by muscle group, add new custom exercises, and browse workouts by available time — all from a clean, intuitive interface.
 
 ---
-
-## 📸 Preview
-
-> *Add screenshots here after deployment (e.g., Home page, Add Exercise form, By Time view)*
-
----
-
 ## 🚀 Features
 
 - 📚 **Exercise Library** — Browse all your saved exercises in a card-based grid layout
