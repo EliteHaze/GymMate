@@ -185,7 +185,7 @@ cd frontend && npm run dev
 ```
 
 The frontend will be available at: [http://localhost:5173](http://localhost:5173)  
-The backend API will run at: [http://localhost:5000](http://localhost:5000)
+The backend API will run at: [http://localhost:5000](http://localhost:3001)
 
 ---
 
@@ -247,7 +247,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Mitesh Chaudhari**
+**Limesh Chaudhari**
 
 - GitHub: [@EliteHaze](https://github.com/EliteHaze)
 
