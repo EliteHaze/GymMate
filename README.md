@@ -101,9 +101,9 @@ Each exercise stored in MongoDB follows this schema:
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `GET` | `/api/exercises` | Fetch all exercises |
-| `POST` | `/api/exercises` | Create a new exercise |
-| `DELETE` | `/api/exercises/:id` | Delete an exercise by ID |
+| `GET` | `/exercises` | Fetch all exercises |
+| `POST` | `/exercises` | Create a new exercise |
+| `DELETE` | `/exercises/:id` | Delete an exercise by ID |
 
 > *(Update this section to reflect your actual route structure)*
 
